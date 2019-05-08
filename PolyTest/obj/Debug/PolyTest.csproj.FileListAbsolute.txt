@@ -1,0 +1,8 @@
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\bin\Debug\PolyTest.exe.config
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\obj\Debug\PolyTest.csproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\bin\Debug\PolyTest.exe
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\bin\Debug\PolyTest.pdb
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\obj\Debug\PolyTest.exe
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\obj\Debug\PolyTest.pdb
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\obj\Debug\PolymorphismDrawingApp.Form1.resources
+c:\users\tony\documents\visual studio 2013\Projects\PolyTest\PolyTest\obj\Debug\PolymorphismDrawingApp.Properties.Resources.resources
